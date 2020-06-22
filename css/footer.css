@@ -1,0 +1,58 @@
+footer{
+    background-color: #333333;
+    color: #FFFFFF;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+footer a{
+    color: #FFFFFF;
+}
+footer a:hover{
+    color: #FFFFFF;
+}
+footer h3{
+    font-size: 22px;
+    line-height: 1;
+    margin-bottom: 15px;
+}
+footer ul{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+footer li{
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 1.4;
+    list-style: none;
+}
+i{
+    margin-right: 20px;
+    text-align: center;
+    width: 20px;
+}
+#footer-contact{
+    background-color: #ffffff;
+}
+#contact{
+    background-color: #734B6D;
+    color: #FFFFFF;
+    padding-bottom: 50px;
+}
+#contact a{
+    color: #FFFFFF;
+}
+#contact i{
+    color: #FFFFFF;
+}
+.follow-me{
+    font-size: 40px;
+    text-align: center;
+}
+.back-to-top{
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    font-size: 48px;
+    color: #734B6D;
+}

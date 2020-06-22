@@ -1,0 +1,58 @@
+.article{
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.art-thumbnail img{
+    width: 100%;
+    margin-top: 5px;
+}
+.article .art-title{
+    text-align: justify;
+}
+.art-title h3{
+    font-size: 20px;
+    line-height: 2;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: 400;
+}
+.article .art-info{
+    text-align: right;
+    margin-bottom: 10px;
+}
+.art-info span{
+    margin-right: 5px;
+}
+.art-info img{
+    margin-right: 5px;
+}
+.article .art-desc{
+    text-indent: 5%;
+    text-align: justify;
+    margin-bottom: 15px;
+}
+.art-desc{
+    font-size: 14px;
+    line-height: 1.5;
+    color: #444444;
+}
+.article .button{
+    text-align: center;
+}
+.button button{
+    text-transform: uppercase;
+    line-height: 2.5;
+    background-color: #42275A;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+}
+.button a{
+    color: #FFFEFF;
+}
+hr{
+    margin-top: 60px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,197 @@
+#container-full{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #FFFFFF;
+    font-family: 'Quicksand', sans-serif;
+    padding: 15px;
+}
+.content{
+    border-right: solid 1px #734B6D;
+}
+.content .item-title{
+    margin-bottom: 15px;
+    padding: 10px;
+}
+.item-title h1{
+    font-size: 28px;
+    line-height: 1;
+    margin-top: 10px;
+}
+.item-info{
+    text-align: right;
+    font-style: italic;
+    padding: 10px;
+}
+.item-content{
+    padding: 10px;
+}
+.item-content h2{
+    font-size: 20px;
+    line-height: 2;
+    text-decoration: underline;
+    margin-top: 10px;
+}
+.item-content p{
+    text-indent: 5%;
+    text-align: justify;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.item-content img{
+    width: 85%;
+    height: auto;
+}
+.item-content .item-desc{
+    width: 85%;
+    font-style: italic;
+    text-align: center;
+    background-color: #FFE0BD;
+    text-indent: 0;
+    margin-left: 5%;
+    margin-top: -13px;
+}
+.right-sidebar{
+    padding-top: 0;
+    margin-bottom: 10px;
+    background-color: #FFFFFF;
+}
+.recent-posts{
+    padding: 20px;
+    border-radius: 10px;
+}
+.recent-posts .rp-head{
+    margin-bottom: 15px;
+}
+.rp-head img{
+    padding-bottom: 5px;
+}
+.rp-head span{
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 1.5;
+    padding: 5px;
+}
+.recent-posts .rp-item{
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: solid 1px #734B6D;
+}
+.rp-item .item-thumbnail{
+    padding: 0 0 0 10px;
+}
+.item-thumbnail img{
+    width: 100%;
+}
+.rp-item .item-title{
+}
+.item-title a{
+    color: #42275A;
+    font-weight: bold;
+}
+.item-title p{
+    color: #444444;
+    font-size: 12px;
+    margin-top: 10px;
+}
+#contact h3{
+    font-size: 36px;
+}
+#contact ul li{
+    font-size: 20px;
+    line-height: 2;
+}
+#contact a{
+    font-size: 20px;
+}
+#contact .follow-me-contact a{
+    font-size: 40px;
+    padding: 10px;
+}
+.con-intro{
+    border-top: solid 1px #42275A;
+    padding-top: 10px;
+    text-align: center;
+}
+.intro-title h1{
+    font-size: 32px;
+    line-height: 1;
+    margin-top: 10px;
+    text-align: center;
+}
+.intro-info{
+    text-align: right;
+    font-style: italic;
+    padding: 10px;
+}
+.intro-content{
+    padding: 10px;
+}
+.intro-content h2{
+    font-size: 20px;
+    line-height: 2;
+    text-decoration: underline;
+    margin-top: 10px;
+}
+.intro-content h3{
+    line-height: 1.5;
+    font-size: 18px;
+}
+.intro-content p{
+    text-indent: 5%;
+    text-align: justify;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.intro-content img{
+    width: 85%;
+    height: auto;
+}
+.intro-content .item-desc{
+    width: 85%;
+    font-style: italic;
+    text-align: center;
+    background-color: #FFE0BD;
+    text-indent: 0;
+    margin-left: 5%;
+    margin-top: -13px;
+}
+.rate {
+    height: 50px;
+    text-align: center;
+}
+.rate:not(:checked) > input {
+    position:absolute;
+    top:-9999px;
+}
+.rate:not(:checked) > label {
+    float: right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:30px;
+    color:#ccc;
+    height: 40px;
+    margin-top: 15px;
+}
+.rate:not(:checked) > label:before {
+    content: '★ ';
+}
+.rate > input:checked ~ label {
+    color: #ffc700;
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+    color: #deb217;
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+    color: #c59b08;
+}

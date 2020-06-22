@@ -1,0 +1,149 @@
+{
+  "message": "Success",
+  "data": [
+    {
+      "title": "Alaska",
+      "avatar": "images/dog-breeds/alaska/alaskatrangchu.jpg",
+      "thumbnail": "images/dog-breeds/alaska/ala2.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Chó Alaska là một nhánh của giống chó sói tuyết Bắc Cực, được biết đến đầu tiên bởi bộ tộc Mahlemut...",
+      "details": "item/dog-breeds/alaska.html"
+    },
+    {
+      "title": "Beagle",
+      "avatar": "images/dog-breeds/beagle/cho-beagle.jpg",
+      "thumbnail": "images/dog-breeds/beagle/IMG1.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Chó Beagle xuất hiện cách đây khoảng 2,400 năm trước (kết quả của sự lai tạo giữa giống chó săn thỏ Talbot và chó bản địa ở Anh). Ban đầu chúng được nuôi nhằm mục đích đánh hơi, săn thỏ. Cái tên Beagle (be’geule) bắt nguồn từ những tiếng reo hú của chúng khi đi săn...",
+      "details": "item/dog-breeds/beagle.html"
+    },
+    {
+      "title": "Border Collie",
+      "avatar": "images/dog-breeds/border-collie/cho-border-collie-5.jpg",
+      "thumbnail": "images/dog-breeds/border-collie/IMG1.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Chó Border Collie, còn gọi là “Collie biên giới” có nguồn gốc từ vùng Northumberland, thuộc biên giới giữa Anh và Scotland.",
+      "details": "item/dog-breeds/border-collie.html"
+    },
+    {
+      "title": "Chó Cỏ",
+      "avatar": "images/dog-breeds/cho_co/avatar.jpg",
+      "thumbnail": "images/dog-breeds/cho_co/cho_co_avatar.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Hầu hết các gia đình của Việt Nam đều nuôi hoặc đã từng nuôi 1-2 chú chó cỏ để làm bạn, để giữ nhà. Tuy nhiên để hiểu rõ hết chó cỏ thì có lẽ không phải ai cũng biết.",
+      "details": "item/dog-breeds/cho_co.html"
+    },
+    {
+      "title": "Chó Phú Quốc",
+      "avatar": "images/dog-breeds/cho_phu_quoc/avatar_PhuQuoc.jpg",
+      "thumbnail": "images/dog-breeds/cho_phu_quoc/cho-phu-quoc.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Chó Phú Quốc là giống chó có nguồn gốc từ đảo Phú Quốc. Được coi là “Quốc Khuyển” của Việt Nam, chó xoáy Phú Quốc đã đạt được nhiều thành tích đáng nể trong các cuộc thi chó quốc tế và ngày càng được nhiều người yêu chó trên toàn thế giới tìm nuôi..",
+      "details": "item/dog-breeds/cho_phu_quoc.html"
+    },
+    {
+      "title": "Corgi",
+      "avatar": "images/dog-breeds/corgi/co0.jpg",
+      "thumbnail": "images/dog-breeds/corgi/co1.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Chó Corgi (hay chó Welsh Corgi) là giống chó có nguồn gốc từ xứ Wales, Anh quốc. Đây một giống những giống chó chân ngắn đẹp nhất thế giớ . Chó Corgi gắn với nhiều truyền thuyết bản địa của xứ Wales, một thời được coi là giống chó thần thánh, có địa vị cao tại Anh Quốc.",
+      "details": "item/dog-breeds/corgi.html"
+    },
+    {
+      "title": "Dachshund",
+      "avatar": "images/dog-breeds/dachshund/avatar.jpg",
+      "thumbnail": "images/dog-breeds/dachshund/cho-lap-xuong-1.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Giống chó Lạp Xưởng có nguồn gốc từ nước Đức và là một trong những loài chó săn của vùng đất này. Xuất hiện từ thế kỷ XV và chó lạp xưởng bắt đẩy được nhiều người biết đến từ thế kỷ XVII.",
+      "details": "item/dog-breeds/dachshund.html"
+    },
+    {
+      "title": "Doberman",
+      "avatar": "images/dog-breeds/doberman/cho-doberman.jpg",
+      "thumbnail": "images/dog-breeds/doberman/IMG1.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Chó Doberman Pinscher là giống chó được lai tạo bởi nhà nhân giống Louis Dobermann. Xuất hiện lần đầu vào năm 1876, Doberman được cho là hậu duệ của các giống: Rottweiler, Pinscher Đức, Manchester Terriers, German Short, Haired Pointer, Great Dane, Weimaraner…",
+      "details": "item/dog-breeds/doberman.html"
+    },
+    {
+      "title": "Husky",
+      "avatar": "images/dog-breeds/husky/cho-hushy3.jpg",
+      "thumbnail": "images/dog-breeds/husky/cho-husky-nen.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Husky là giống chó kéo xe thuộc dòng Spitz, có nguồn gốc từ Đông Bắc Sibir, Nga. Loài chó này được người Chukchi Đông Bắc Á phối giống, cho ra giống chó có khả năng kéo xe đường dài tốt trong điều kiện vô cùng khắc nghiệt.",
+      "details": "item/dog-breeds/husky.html"
+    },
+    {
+      "title": "Labrador",
+      "avatar": "images/dog-breeds/labrador/cho-labrador-1-1.jpg",
+      "thumbnail": "images/dog-breeds/labrador/cho-labrador-2.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Chó Labrador Retriever là giống chó tha mồi được nuôi phổ biến nhất ở Mỹ. Cái tên “Labrador” bắt nguồn từ tiếng Bồ Đào Nha có nghĩa là “Người lao động”. ",
+      "details": "item/dog-breeds/labrador.html"
+    },
+    {
+      "title": "Malinois",
+      "avatar": "images/dog-breeds/malinois/cho-bec-bi-malinois.jpg",
+      "thumbnail": "images/dog-breeds/malinois/IMG2.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Chó Malinois (Chó Becgie Bỉ) là một giống chó chăn cừu Bỉ có kích cỡ trung bình. Cùng với Becgie Đức, chó Béc Bỉ được rất nhiều người yêu thích dòng chó nghiệp vụ tìm nuôi tại Việt Nam.",
+      "details": "item/dog-breeds/malinois.html"
+    },
+    {
+      "title": "Phóc Sốc",
+      "avatar": "images/dog-breeds/phoc-soc/phoc-soc-02.png",
+      "thumbnail": "images/dog-breeds/phoc-soc/phoc-soc-3.png",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Chó Phốc sóc (Pomeranian) là giống chó cảnh có nguồn gốc từ châu Âu. Tên của chúng bắt nguồn từ địa danh Pomerania, trước là vùng Trung Âu, ngày nay là miền Tây Bắc Ba Lan và Đông Bắc Đức.",
+      "details": "item/dog-breeds/phoc-soc.html"
+    },
+    {
+      "title": "Poodle",
+      "avatar": "images/dog-breeds/poodle/cho-poodle.jpg",
+      "thumbnail": "images/dog-breeds/poodle/poodle1.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Chó Poodle (hay chó săn vịt) là giống chó chuyên dùng để săn các loại thủy cầm, chủ yếu là vịt. Chúng được biết đến trên khắp Tây Âu vào khoảng 400 năm trước, là hậu duệ của các giống chó French Water Dog, Hungarian Water Hound và Barbet. Cái tên “Poodle” xuất phát từ “Pudel” trong tiếng Đức, nghĩa là “thợ lặn”.",
+      "details": "item/dog-breeds/poodle.html"
+    },
+    {
+      "title": "Pug",
+      "avatar": "images/dog-breeds/pug/pu1.jpg",
+      "thumbnail": "images/dog-breeds/pug/pu2.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Pug là giống chó mặt xệ nổi tiếng xuất hiện khá lâu đời từ Trung Quốc. Được mang đến châu Âu và bắt đầu phát triển rộng rãi vào thế kỷ 16. Chúng trở thành thú cưng rất được yêu thích trong Hoàng gia, đặc biệt là ở Anh và Hà Lan.",
+      "details": "item/dog-breeds/pug.html"
+    },
+    {
+      "title": "Rottweiler",
+      "avatar": "images/dog-breeds/rottweiler/cho-rottweiler.jpg",
+      "thumbnail": "images/dog-breeds/pug/IMG1.png",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Rottweiler là giống chó chăn gia súc xuất hiện ở Đức từ năm 1800. Tổ tiên của chúng là dòng chó Ngao Ý từ thời La Mã cổ. Ban đầu, chúng được nuôi chủ yếu để phục vụ cho việc săn bắn, chăn thả gia súc, kéo xe trong chiến tranh.",
+      "details": "item/dog-breeds/rottweiler.html"
+    },
+    {
+      "title": "Samoyed",
+      "avatar": "images/dog-breeds/samoyed/avatar.jpg",
+      "thumbnail": "images/dog-breeds/pug/cho-samoyed-1.jpg",
+      "info": "Giống Cún",
+      "time": "August 31, 2019",
+      "desc": "Samoyed là giống chó có nguồn gốc từ Taiga, Tây Bắc Siberia. Từ nhiều thế kỷ trước, chúng được các thợ săn và ngư dân nuôi phục vụ công việc săn bắt và kéo xe tuyết. Năm 1889 loài chó này được đem tới nước Anh bởi nhà thám hiểm Robert Scott. Kể từ đó, chúng bắt đầu được lai tạo, nhân giống và nhanh chóng trở nên phổ biến trên toàn thế giới.",
+      "details": "item/dog-breeds/samoyed.html"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+#intro{
+    background-color: #FFFFFF;
+    background-image: none;
+}
+.con-intro{
+    text-align: center;
+    padding-top: 50px;
+    background-color: #FFFFFF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.intro-title h1{
+    font-size: 32px;
+    line-height: 1;
+    margin-top: 10px;
+    text-align: center;
+}
+.intro-info{
+    text-align: right;
+    font-style: italic;
+    padding: 10px;
+}
+.intro-content{
+    padding: 10px;
+}
+.intro-content h2{
+    font-size: 20px;
+    line-height: 2;
+    margin-top: 10px;
+}
+.intro-content h3{
+    line-height: 1.5;
+    font-size: 18px;
+}
+.intro-content p{
+    text-indent: 5%;
+    text-align: justify;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.intro-content img{
+    width: 85%;
+    height: auto;
+}
+.intro-content .item-desc{
+    width: 85%;
+    font-style: italic;
+    text-align: center;
+    background-color: #FFE0BD;
+    text-indent: 0;
+    margin-left: 5%;
+    margin-top: -13px;
+    color: #42275A;
+}
+.rate {
+    height: 50px;
+    text-align: center;
+}
+.rate:not(:checked) > input {
+    position:absolute;
+    top:-9999px;
+}
+.rate:not(:checked) > label {
+    float: right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:30px;
+    color:#ccc;
+    height: 40px;
+    margin-top: 15px;
+}
+.rate:not(:checked) > label:before {
+    content: '★ ';
+}
+.rate > input:checked ~ label {
+    color: #ffc700;
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+    color: #deb217;
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+    color: #c59b08;
+}
